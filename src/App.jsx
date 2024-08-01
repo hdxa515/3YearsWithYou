@@ -24,7 +24,7 @@ function App() {
       if (name === "Bassi" && password === "917") {
         setName('');
         setPassword('');
-        navigate('/memories'); 
+        navigate('/3YearsWithYou/memories'); 
       } 
       else if (name === "Bassa" && password === "315") {
         setName('');
