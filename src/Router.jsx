@@ -7,8 +7,8 @@ function AppRouter() {
   return (
     <Router>
       <Routes>
-        <Route path="/" element={<App />} />
-        <Route path="/memories" element={<Memories />} />
+        <Route path="/3YearsWithYou" element={<App />} />
+        <Route path="/3YearsWithYou/memories" element={<Memories />} />
       </Routes>
     </Router>
   );
