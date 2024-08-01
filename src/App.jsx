@@ -29,7 +29,7 @@ function App() {
       else if (name === "Bassa" && password === "315") {
         setName('');
         setPassword('');
-        navigate('/memories'); 
+        navigate('/3YearsWithYou/memories'); 
       } 
       else {
         setBgColor('bg-gradient-to-r from-red-400 via-red-600 to-pink-500 ');
