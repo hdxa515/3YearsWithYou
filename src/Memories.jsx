@@ -39,18 +39,7 @@ function Memories() {
             Happy anniversary!
           </div>
         </div>
-{/*
-        <div className="flex flex-row justify-center animate-down delay-\[10000ms\]">
-          <svg
-            viewBox="0 0 24 24"
-            fill="currentColor"
-            height="4rem"
-            width="4rem"
-          >
-            <path d="M21.886 5.536A1.002 1.002 0 0021 5H3a1.002 1.002 0 00-.822 1.569l9 13a.998.998 0 001.644 0l9-13a.998.998 0 00.064-1.033zM12 17.243L4.908 7h14.184L12 17.243z" />
-          </svg>
-        </div>
-*/}
+        
       </div>
 
     <div className="w-screen mt-28 ">
@@ -58,7 +47,7 @@ function Memories() {
 
         <RevealOnScroll className="w-full flex flex-row ">
           <img 
-            src="/assets/2.0.jpg" 
+            src="/3YearsWithYou/assets/2.0.jpg" 
             className="rounded-lg shadow-lg w-screen h-fit" 
             alt="Memorable moment" 
           />
@@ -90,7 +79,7 @@ function Memories() {
       <div>
       <RevealOnScroll className="w-full flex flex-row ">
           <img 
-            src="/assets/8.jpg" 
+            src="/3YearsWithYou/assets/8.jpg" 
             className="rounded-lg shadow-lg w-screen h-fit" 
             alt="Memorable moment" 
           />
@@ -118,7 +107,7 @@ function Memories() {
       <div>
         <RevealOnScroll className="w-full flex flex-row ">
           <img 
-            src="/assets/16.jpg" 
+            src="/3YearsWithYou/assets/16.jpg" 
             className="rounded-lg shadow-lg  w-screen h-fit" 
             alt="Memorable moment" 
           />
@@ -144,60 +133,60 @@ function Memories() {
     <div>
       <div className='grid grid-cols-3 gap-0'>
         <RevealOnScroll>
-          <img src="/assets/3.jpg" alt="" />
+          <img src="/3YearsWithYou/assets/3.jpg" alt="" />
         </RevealOnScroll>
         <RevealOnScroll>
-          <img src="/assets/2.1.jpg" alt="" />
+          <img src="/3YearsWithYou/assets/2.1.jpg" alt="" />
         </RevealOnScroll>
         <RevealOnScroll>
-          <img src="/assets/4.jpg" alt="" />
+          <img src="/3YearsWithYou/assets/4.jpg" alt="" />
         </RevealOnScroll>
         <RevealOnScroll>
-          <img src="/assets/7.jpg" alt="" />
+          <img src="/3YearsWithYou/assets/7.jpg" alt="" />
         </RevealOnScroll>
         <RevealOnScroll>
-          <img src="/assets/6.0.jpg" alt="" />
+          <img src="/3YearsWithYou/assets/6.0.jpg" alt="" />
         </RevealOnScroll>
         <RevealOnScroll>
-          <img src="/assets/15.jpg" alt="" />
+          <img src="/3YearsWithYou/assets/15.jpg" alt="" />
         </RevealOnScroll>
         <RevealOnScroll>
-          <img src="/assets/17.0.jpg" alt="" />
+          <img src="/3YearsWithYou/assets/17.0.jpg" alt="" />
         </RevealOnScroll><RevealOnScroll className="relative flex bg-black bg-opacity-30">
-  <img src="/assets/17.1.jpg" alt="" className="w-full h-auto object-cover" />
-  <div className="absolute inset-0 flex justify-center items-center text-3xl font-bold text-white bg-black bg-opacity-40 leading-loose">
-    <div className="flex flex-col justify-center items-center text-center">
-      and <br />
-      a <br />
-      many <br />
-      more <br />
-      to <br />
-      go
-    </div>
-  </div>
-</RevealOnScroll>
+          <img src="/3YearsWithYou/assets/17.1.jpg" alt="" className="w-full h-auto object-cover" />
+          <div className="absolute inset-0 flex justify-center items-center text-3xl font-bold text-white bg-black bg-opacity-40 leading-loose">
+            <div className="flex flex-col justify-center items-center text-center">
+              and <br />
+              a <br />
+              many <br />
+              more <br />
+              to <br />
+              go
+            </div>
+          </div>
+        </RevealOnScroll>
 
 
         <RevealOnScroll>
-          <img src="/assets/13.2.jpg" alt="" />
+          <img src="/3YearsWithYou/assets/13.2.jpg" alt="" />
         </RevealOnScroll>
         <RevealOnScroll>
-          <img src="/assets/1.jpg" alt="" />
+          <img src="/3YearsWithYou/assets/1.jpg" alt="" />
         </RevealOnScroll>
         <RevealOnScroll>
-          <img src="/assets/9.jpg" alt="" />
+          <img src="/3YearsWithYou/assets/9.jpg" alt="" />
         </RevealOnScroll>
         <RevealOnScroll>
-          <img src="/assets/12.jpg" alt="" />
+          <img src="/3YearsWithYou/assets/12.jpg" alt="" />
         </RevealOnScroll>
         <RevealOnScroll>
-          <img src="/assets/13.1.jpg" alt="" />
+          <img src="/3YearsWithYou/assets/13.1.jpg" alt="" />
         </RevealOnScroll>
         <RevealOnScroll>
-          <img src="/assets/5.0.jpg" alt="" />
+          <img src="/3YearsWithYou/assets/5.0.jpg" alt="" />
         </RevealOnScroll>
         <RevealOnScroll>
-          <img src="/assets/13.0.jpg" alt="" />
+          <img src="/3YearsWithYou/assets/13.0.jpg" alt="" />
         </RevealOnScroll>
         
       </div>
