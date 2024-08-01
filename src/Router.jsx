@@ -9,6 +9,7 @@ function AppRouter() {
       <Routes>
         <Route path="/3YearsWithYou" element={<App />} />
         <Route path="/3YearsWithYou/memories" element={<Memories />} />
+        <Route path="/memories" element={<Memories />} />
       </Routes>
     </Router>
   );

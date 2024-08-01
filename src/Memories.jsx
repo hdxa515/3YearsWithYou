@@ -13,7 +13,7 @@ function Memories() {
 
 
       <div>
-        <img src="/assets/flower1.png" alt="" className='absolute w-fit h-screen flex justify-end items-end ml-[72%] animate-fade animate-once animate-duration-[5000ms] animate-delay-[1500ms]'/>
+        <img src="/3YearsWithYou/assets/flower1.png" alt="" className='absolute w-fit h-screen flex justify-end items-end ml-[72%] animate-fade animate-once animate-duration-[5000ms] animate-delay-[1500ms]'/>
 
         <div className='text-5xl text-black flex justify-center mt-32 mb-20 animate-fade animate-once animate-duration-[7000ms] '>
           3 Years With You
